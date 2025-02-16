@@ -1,0 +1,19 @@
+{
+  "name": "@sse-editor/helpers",
+  "version": "1.0.0",
+  "description": "Utils useful for work with dom for SSE Editor tools development",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sse-editor/helpers.git"
+  },
+  "author": "SSE World",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sse-editor/helpers/issues"
+  },
+  "homepage": "https://github.com/sse-editor/helpers#readme"
+}
