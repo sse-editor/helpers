@@ -4,7 +4,8 @@
   "description": "Utils useful for work with dom for SSE Editor tools development",
   "main": "index.js",
   "scripts": {
-    "build": "tsc --project tsconfig.build.json"
+    "build": "tsc --project tsconfig.build.json",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
