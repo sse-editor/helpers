@@ -1,8 +1,9 @@
 {
   "name": "@sse-editor/helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utils useful for work with dom for SSE Editor tools development",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc --project tsconfig.build.json",
     "prepare": "npm run build"
